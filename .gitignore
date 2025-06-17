@@ -1,7 +1,8 @@
 # Default ignored files
-.out/
+*.out/
 .idea/
 /shelf/
 src/OOP2_Lesson1
 src/OOP2_Lesson2
 *.iml
+

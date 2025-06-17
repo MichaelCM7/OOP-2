@@ -1,4 +1,4 @@
-package OOP2_CODING_CHALLENGES.CodingChallenge_10_SortReverseAndClear;
+package OOP2_CODING_CHALLENGES.CodingChallenge_10_SortReverse;
 
 import java.util.Arrays;
 import java.util.Collections;
