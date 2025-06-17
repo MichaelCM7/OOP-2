@@ -1,8 +1,8 @@
-package OOP2_CODING_CHALLENGES.CodingChalllenge_8_Array;
+package OOP2_CODING_CHALLENGES.CodingChallenge_8_Array;
 
 public class ArrayChallenge {
     public static void main(String[] args) {
-        String[] orderIds = {"K567","B141","Z222","A785","B145","S344","M786","B982",};
+        String[] orderIds = {"A567","B141","E222","C785","B145","D344","C786","E982",};
 
         for(String orderId : orderIds){
             if(orderId.startsWith("B")){
