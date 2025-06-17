@@ -1,4 +1,4 @@
-package OOP2_CODING_CHALLENGES.CodingChallenge_2;
+package OOP2_CODING_CHALLENGES.CodingChallenge_2_Variables;
 
 public class Variables {
     void showInterest(){

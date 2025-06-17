@@ -1,4 +1,4 @@
-package OOP2_CODING_CHALLENGES.CodingChallenge_1;
+package OOP2_CODING_CHALLENGES.CodingChallenge_1_Greeter;
 
 public class Greeter {
 

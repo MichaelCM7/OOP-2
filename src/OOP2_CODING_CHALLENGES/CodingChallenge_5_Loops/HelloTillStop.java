@@ -1,4 +1,4 @@
-package OOP2_CODING_CHALLENGES.CodingChallenge_5;
+package OOP2_CODING_CHALLENGES.CodingChallenge_5_Loops;
 
 import java.util.Scanner;
 
