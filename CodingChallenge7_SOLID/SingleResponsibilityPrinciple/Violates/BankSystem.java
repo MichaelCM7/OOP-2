@@ -1,4 +1,4 @@
-package OOP2_Coding_Challenges.CodingChallenge_7_SOLID;
+package OOP2_Coding_Challenges.CodingChallenge7_SOLID.SingleResponsibilityPrinciple.Violates;
 
 class Bank{
     public void makeDeposit(){
@@ -30,7 +30,7 @@ class Payment{
     }
 }
 
-public class SingleResponsibilityBreaks {
+public class BankSystem {
     public static void main(String[] args){
         Bank bank = new Bank();
         Customer customer = new Customer();
